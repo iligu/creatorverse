@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Demo](Screen Recording 2026-01-19 at 18.32.16.gif)
+![Demo](Demo1.gif)
 
 ## Notes
 
