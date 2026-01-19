@@ -36,6 +36,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 ![Demo](Demo1.gif)
+<img src="Demo.gif" width="400" />
+
 
 ## Notes
 
