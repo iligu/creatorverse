@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://drive.google.com/file/d/1MdmAK0qyVVUm_5ihkEMKHOrQn76HzwtQ/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Demo](Demo.gif)
 
 ## Notes
 
